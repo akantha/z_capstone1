@@ -1,0 +1,59 @@
+* {
+    /* border: 1px solid red; */
+    color: #212121;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+p, a {
+    font-family: 'Poppins', sans-serif;
+}
+
+.jumbotron {
+    background: url('./daniel-romero-WcwRqDBCrpA-unsplash.jpg') no-repeat center center fixed;
+    padding-top: 25%;
+    padding-bottom: 25%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.bg-bg1 {
+    background-color: #046b99;
+    padding-top: 25%;
+    padding-bottom: 25%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.bg-bg2 {
+    background-color: #4773aa;
+    padding-top: 25%;
+    padding-bottom: 25%;
+    padding-left: 10%;
+    padding-right: 10%; 
+}
+
+.bg-bg3 {
+    background-color: #205493;
+    padding-top: 25%;
+    padding-bottom: 25%;
+    padding-left: 10%;
+    padding-right: 10%; 
+}
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+.content {
+    padding-top: 15%;
+    padding-bottom: 15%;
+    padding-left: 5%;
+    padding-right: 5%; 
+}
