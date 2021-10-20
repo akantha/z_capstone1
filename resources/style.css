@@ -3,11 +3,16 @@
     color: #212121;
 }
 
-h1, h2, h3, h4, h5 {
+h1, h2, h4 {
+    font-family: 'Andada Pro', serif;
+    
+}
+
+h3, h5 {
     font-family: 'Open Sans', sans-serif;
 }
 
-p, a {
+p, a, label {
     font-family: 'Poppins', sans-serif;
 }
 
@@ -23,24 +28,24 @@ p, a {
 
 .bg-bg1 {
     background-color: #046b99;
-    padding-top: 25%;
-    padding-bottom: 25%;
+    padding-top: 20%;
+    padding-bottom: 20%;
     padding-left: 10%;
     padding-right: 10%;
 }
 
 .bg-bg2 {
     background-color: #4773aa;
-    padding-top: 25%;
-    padding-bottom: 25%;
+    padding-top: 20%;
+    padding-bottom: 20%;
     padding-left: 10%;
     padding-right: 10%; 
 }
 
 .bg-bg3 {
     background-color: #205493;
-    padding-top: 25%;
-    padding-bottom: 25%;
+    padding-top: 20%;
+    padding-bottom: 20%;
     padding-left: 10%;
     padding-right: 10%; 
 }
@@ -56,4 +61,12 @@ p, a {
     padding-bottom: 15%;
     padding-left: 5%;
     padding-right: 5%; 
+}
+
+span {
+    color: aquamarine;
+}
+
+.text-white {
+    text-shadow: 2px 2px 2 #000;
 }
