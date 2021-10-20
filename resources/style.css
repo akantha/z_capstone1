@@ -1,6 +1,8 @@
 * {
     /* border: 1px solid red; */
     color: #212121;
+    margin: 0;
+    padding: 0;
 }
 
 h1, h2, h4 {
